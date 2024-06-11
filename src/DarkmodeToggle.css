@@ -1,0 +1,14 @@
+.btn-toggle {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .btn-toggle:hover {
+    background-color: #0056b3;
+  }
+  

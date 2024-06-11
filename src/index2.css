@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.table table-bordered table-striped {
+    background-color: #0ecb1c;
+}
+
+#col {
+    background-color: black;
+    color: greenyellow;
+    text-align: center;
+}
+
+h1 {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: aquamarine;
+    color: blue;
+    border-radius: 0.3em;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    letter-spacing: 3px;
+}
+
+h3 {
+    color:blue;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+}
+
+.detail {
+    font-family: "Times New Roman", Times, serif;
+    color: darkcyan;
+    font-weight: bolder;
+}
+
+div>p {
+    display: inline;
+    height: 50px;
+    width: 100px;
+    border: 2px;
+    color: fuchsia;
+    background-color: black;
+}
+
+a[target="_blank"] {
+    color: aqua;
+    text-align: center;
+}
+
+ol {
+    background-color: black;
+}
+
+li {
+    color: aquamarine;
+}
+
+table {
+    border: 2px solid black;
+    width: 100%;
+    background-color: #ffffff;
+    color: #0ecb1c;
+}
+
+.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+}
+
+h4 {
+    color: #0ecb1c;
+    text-align: center;
+}
+
